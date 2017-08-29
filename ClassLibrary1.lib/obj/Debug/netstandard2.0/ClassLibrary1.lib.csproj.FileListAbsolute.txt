@@ -1,0 +1,8 @@
+c:\users\jstafford\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1.lib\bin\Debug\netstandard2.0\ClassLibrary1.lib.deps.json
+c:\users\jstafford\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1.lib\bin\Debug\netstandard2.0\ClassLibrary1.lib.dll
+c:\users\jstafford\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1.lib\bin\Debug\netstandard2.0\ClassLibrary1.lib.pdb
+c:\users\jstafford\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1.lib\obj\Debug\netstandard2.0\ClassLibrary1.lib.csproj.CoreCompileInputs.cache
+c:\users\jstafford\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1.lib\obj\Debug\netstandard2.0\ClassLibrary1.lib.AssemblyInfoInputs.cache
+c:\users\jstafford\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1.lib\obj\Debug\netstandard2.0\ClassLibrary1.lib.AssemblyInfo.cs
+c:\users\jstafford\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1.lib\obj\Debug\netstandard2.0\ClassLibrary1.lib.dll
+c:\users\jstafford\documents\visual studio 2017\Projects\ClassLibrary1\ClassLibrary1.lib\obj\Debug\netstandard2.0\ClassLibrary1.lib.pdb
